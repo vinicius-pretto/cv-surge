@@ -1,0 +1,19 @@
+{
+  "name": "cv-surge",
+  "version": "1.0.0",
+  "description": "Publish my cv using surge.sh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "sh bin/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cv-surge.git"
+  },
+  "author": "Vinicius Pretto <vini.prettodasilva@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "surge": "^0.21.3"
+  }
+}
