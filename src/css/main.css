@@ -8,6 +8,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+  color: #747777;
 }
 
 .container {
@@ -41,8 +42,40 @@ header {
 
 .profile-info h2 {
   font-size: 0.875rem;
-  font-weight: bold;
+  font-weight: normal;
   color: #747777;
+}
+
+section h2 {
+  color: #393536;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.email {
+  color: #393536;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  text-align: right;
+}
+
+.box {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 40px;
+}
+
+.info {
+  font-size: 0.75rem;
+  margin-left: 8px;
+}
+
+.info h3 {
+  color: #393536;
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-size: 0.875rem;
 }
 
 @media (max-width: 1024px) {
