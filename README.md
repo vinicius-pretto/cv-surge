@@ -1,5 +1,7 @@
 # CV - surge.sh
 
+https://viniciuspretto.surge.sh
+
 ![Surge](/src/images/surge-logo.png)
 
 ## The goal of this project is publish my cv using [surge.sh](https://surge.sh/)
