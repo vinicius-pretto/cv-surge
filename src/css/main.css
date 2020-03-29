@@ -81,6 +81,17 @@ section h2 {
 
 ul li {
   font-size: 0.875rem;
+  margin-bottom: 8px;
+}
+
+.voluntariado-section {
+  margin-top: 48px;
+}
+
+.voluntariado-section h3 {
+  font-size: 0.875rem;
+  color: #393536;
+  margin-bottom: 8px;
 }
 
 @media (max-width: 1024px) {
